@@ -1,6 +1,5 @@
 # ============================================
 # DATA SCIENCE PROJECT - COFFEE SALES ANALYSIS
-# Exactly 20 techniques + 4 mandatory commands
 # ============================================
 
 import pandas as pd
@@ -17,7 +16,7 @@ print("COFFEE SALES DATA SCIENCE PROJECT")
 print("=" * 60)
 
 # ============================================
-# MANDATORY COMMANDS (4 commands - NOT in 20)
+# MANDATORY COMMANDS 
 # ============================================
 
 print("\n📋 MANDATORY COMMANDS (4 commands)")
